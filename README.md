@@ -14,5 +14,5 @@ http://www.psue.uni-hannover.de/wise2017_2018/material/ed.pdf
 Both the above seem to have some typesetting mistakes.
 
 Scanned Version 1 manuals. ed is in "Commands, part 2".
-1971-03-11
+1971-11-03 http://cm.bell-labs.co/who/dmr/man12.pdf
 
