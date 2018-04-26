@@ -16,3 +16,4 @@ Both the above seem to have some typesetting mistakes.
 Scanned Version 1 manuals. ed is in "Commands, part 2".
 1971-11-03 http://cm.bell-labs.co/who/dmr/man12.pdf
 
+Evidence, at 6.7 of https://www.bell-labs.com/usr/dmr/www/cacm.html ("The UNIX Time-Sharing System"), that the shell escape feature in _ed_ was added so that one could run formatting programs when _ed_ was the login shell.
